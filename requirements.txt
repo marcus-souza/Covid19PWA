@@ -1,3 +1,4 @@
 # Server
 flask
 flask-cors
+requests
