@@ -68,3 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/149ddb7fa3c746b1badb19055dd82de3)](https://www.codacy.com/gh/marcus-souza/Covid19PWA/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=marcus-souza/Covid19PWA&amp;utm_campaign=Badge_Grade)
