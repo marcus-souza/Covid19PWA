@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b834159e826640a4bbfc65c6d8ecdbe8)](https://app.codacy.com/gh/marcus-souza/Covid19PWA?utm_source=github.com&utm_medium=referral&utm_content=marcus-souza/Covid19PWA&utm_campaign=Badge_Grade_Settings)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
